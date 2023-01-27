@@ -9,7 +9,7 @@ class seiscomp_info:
 class gmail_info:
     def __init__(self):
         self.user    = 'example@gmail.com'
-        self.pass    = 'ABCDEFGH'
+        self.pwd    = 'ABCDEFGH'
 
 
 # Cut out
