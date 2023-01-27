@@ -10,3 +10,11 @@ class gmail_info:
     def __init__(self):
         self.user    = 'example@gmail.com'
         self.pass    = 'ABCDEFGH'
+
+
+# Cut out
+class cutout:
+    def __init__(self):
+        self.stime = 0
+        self.etime = 600
+        self.archive = '/media/tdmmo/DataBase1'
