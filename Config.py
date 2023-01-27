@@ -17,4 +17,6 @@ class cutout:
     def __init__(self):
         self.stime = 0
         self.etime = 600
-        self.archive = '/media/tdmmo/DataBase1'
+        self.networks = ['IR']
+        self.archive = '/home/user/DataBase1'
+        self.outpath = '/home/user/DataBase2'
