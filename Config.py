@@ -18,5 +18,5 @@ class cutout:
         self.stime = 0
         self.etime = 600
         self.networks = ['IR']
-        self.archive = '/home/user/DataBase1'
-        self.outpath = '/home/user/DataBase2'
+        self.archive = '/home/iman/1'
+        self.outpath = '/home/iman/2'
